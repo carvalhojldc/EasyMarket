@@ -1,5 +1,6 @@
 # EasyMarket
-Sistema ERP
+
+Enterprise Resource Planning
 
 Projeto de um sitema ERP em PHP
 
